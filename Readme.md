@@ -28,4 +28,4 @@ The code was written in Python 3.6(Preferred version). Additional installations 
 # Acknowledgements:
 Reference for the Heatmap: https://stackoverflow.com/questions/12286607/making-heatmap-from-pandas-dataframe
 
-Medium Post can be found  [here](https://medium.com/@penumartisatish9/seattle-airbnb-data-analysis-udacity-data-scientist-nano-degree-487e1a925ae1/)
+# Medium Post can be found  [here](https://medium.com/@penumartisatish9/seattle-airbnb-data-analysis-udacity-data-scientist-nano-degree-487e1a925ae1/)
