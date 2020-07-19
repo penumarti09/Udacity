@@ -26,5 +26,6 @@ The code was written in Python 3.6(Preferred version). Additional installations 
 2) We can observe that Downtown, Magnolia, Queen Anne, Cascade, West Seattle
 3) In this module, we have used two algorithms namely Random forest and Support vector Machines to predict the price of an Airbnb We observed that the R2 value of SVM(30%) is less than R2 value of Random Forest(54%). Thus, we can conclude that is a better performing model. We can understand that Random Forest can explain atleast 54% pf price variance.
 # Acknowledgements:
-1)	Reference for the Heatmap: https://stackoverflow.com/questions/12286607/making-heatmap-from-pandas-dataframe
+Reference for the Heatmap: https://stackoverflow.com/questions/12286607/making-heatmap-from-pandas-dataframe
+
 Medium Post can be found  [here](https://medium.com/@penumartisatish9/seattle-airbnb-data-analysis-udacity-data-scientist-nano-degree-487e1a925ae1/)
